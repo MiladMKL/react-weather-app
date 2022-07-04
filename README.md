@@ -20,5 +20,5 @@ Run it
 $ npm start
 ```
 
-**Demo**
+**Preview**
 ![demo](public/demo.png)
