@@ -1,6 +1,6 @@
 # React Weather App
 
-This is a simple weather app created with React.
+A simple weather app created with React.
 
 ## Instructions
 
